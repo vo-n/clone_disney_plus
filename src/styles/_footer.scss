@@ -32,7 +32,7 @@
         display: block;
 
         &:hover {
-          color: variaveis.$secundaryTextColor;
+          color: variaveis.$secondaryTextColor;
         }
       }
     }
@@ -59,7 +59,7 @@
     height: 38px;
 
     &:hover {
-      color: variaveis.$secundaryTextColor;
+      color: variaveis.$secondaryTextColor;
     }
 
     option {
